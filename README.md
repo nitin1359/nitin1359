@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Nitin Kr. Shukla! 👋
 
-<!--
-**nitin1359/nitin1359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building mobile applications. I love exploring new technologies and sharing my knowledge with the community.
 
-Here are some ideas to get you started:
+![Profile Image](https://avatars.githubusercontent.com/u/58267130?v=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me:
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@135nitin)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/135nitin/)
+
+### Skills
+- Flutter
+- Dart
+- Firebase
+- Getx
+- Bloc
+- APIs
+- SQL
+
+### GitHub Stats
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin1359&show_icons=true&theme=radical)
+
+### Pinned Repositories
+1. **[whatsapp_checker](https://github.com/nitin1359/whatsapp_checker)**: 
+   - A simple Flutter app to check if a user uses WhatsApp or not, and then start a chat with them without saving their number.
+   
+2. **[noteapp](https://github.com/nitin1359/noteapp)**: 
+   - A simple note-taking app in Flutter, with SQL Database and shared preferences.
+
+### Achievements
+- ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-brightgreen)
