@@ -1,4 +1,4 @@
-![Header](![Uploading image.png…]()
+![Header](![image](https://github.com/user-attachments/assets/013c1230-9177-4020-ac59-0e389168adc7)
 )
 
 # Hi, I'm Nitin Kr. Shukla! 👋
