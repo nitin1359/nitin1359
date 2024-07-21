@@ -1,5 +1,5 @@
-![Header](![image](https://github.com/user-attachments/assets/013c1230-9177-4020-ac59-0e389168adc7)
-)
+![Header]([https://yourheaderimage.url](https://github-production-user-asset-6210df.s3.amazonaws.com/58267130/350776598-013c1230-9177-4020-ac59-0e389168adc7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T145023Z&X-Amz-Expires=300&X-Amz-Signature=719e57ffe6170f5b91d7c4b00a6a742bedf47cfde8a6b1f0a3f2b9d3ea15f911&X-Amz-SignedHeaders=host&actor_id=58267130&key_id=0&repo_id=831756013))
+
 
 # Hi, I'm Nitin Kr. Shukla! 👋
 
