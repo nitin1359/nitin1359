@@ -24,11 +24,11 @@ I'm a passionate software engineer with a love for building mobile applications 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
 
 ## 📊 GitHub Stats
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin1359&show_icons=true&theme=radical)  
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin1359&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin1359&layout=compact&theme=radical)
 
 ## 🚀 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nitin1359&repo=whatsapp_checker&theme=radical)](https://github.com/nitin1359/whatsapp_checker)   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nitin1359&repo=whatsapp_checker&theme=radical)](https://github.com/nitin1359/whatsapp_checker) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nitin1359&repo=noteapp&theme=radical)](https://github.com/nitin1359/noteapp)
 
 ## 🏆 Achievements
